@@ -1,0 +1,51 @@
+2023-02-23 09:35:45,462 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+2023-02-23 09:35:45,462 [33mPress CTRL+C to quit[0m
+2023-02-23 09:35:59,999 172.18.0.2 - - [23/Feb/2023 09:35:59] "GET / HTTP/1.1" 200 -
+2023-02-23 09:36:00,122 172.18.0.2 - - [23/Feb/2023 09:36:00] "GET /static/css/style.css HTTP/1.1" 200 -
+2023-02-23 09:36:00,184 172.18.0.2 - - [23/Feb/2023 09:36:00] "GET /static/css/main.css HTTP/1.1" 200 -
+2023-02-23 09:36:00,502 172.18.0.2 - - [23/Feb/2023 09:36:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-02-23 09:36:05,624 0
+2023-02-23 09:36:05,625 172.18.0.2 - - [23/Feb/2023 09:36:05] "POST /review HTTP/1.1" 200 -
+2023-02-23 09:36:17,205 0
+2023-02-23 09:36:17,206 172.18.0.2 - - [23/Feb/2023 09:36:17] "POST /review HTTP/1.1" 200 -
+2023-02-23 09:55:23,767 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.13:5000
+2023-02-23 09:55:23,768 [33mPress CTRL+C to quit[0m
+2023-02-23 09:55:39,900 172.18.0.2 - - [23/Feb/2023 09:55:39] "GET / HTTP/1.1" 200 -
+2023-02-23 09:55:39,990 172.18.0.2 - - [23/Feb/2023 09:55:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-02-23 09:55:40,060 172.18.0.2 - - [23/Feb/2023 09:55:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-02-23 09:55:43,252 172.18.0.2 - - [23/Feb/2023 09:55:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-02-23 09:55:47,922 0
+2023-02-23 09:55:47,922 172.18.0.2 - - [23/Feb/2023 09:55:47] "POST /review HTTP/1.1" 200 -
+2023-02-23 09:56:22,961 0
+2023-02-23 09:56:22,962 172.18.0.2 - - [23/Feb/2023 09:56:22] "POST /review HTTP/1.1" 200 -
+2023-02-23 14:02:07,086 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2023-02-23 14:02:07,087 [33mPress CTRL+C to quit[0m
+2023-02-23 14:02:22,314 172.18.0.2 - - [23/Feb/2023 14:02:22] "GET / HTTP/1.1" 200 -
+2023-02-23 14:02:22,342 172.18.0.2 - - [23/Feb/2023 14:02:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-02-23 14:02:22,351 172.18.0.2 - - [23/Feb/2023 14:02:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-02-23 14:02:25,108 172.18.0.2 - - [23/Feb/2023 14:02:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-02-23 14:02:28,915 0
+2023-02-23 14:02:28,915 172.18.0.2 - - [23/Feb/2023 14:02:28] "POST /review HTTP/1.1" 200 -
+2023-02-23 18:40:43,580 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2023-02-23 18:40:43,580 [33mPress CTRL+C to quit[0m
+2023-02-23 18:41:28,409 172.18.0.2 - - [23/Feb/2023 18:41:28] "GET / HTTP/1.1" 200 -
+2023-02-23 18:41:28,443 172.18.0.2 - - [23/Feb/2023 18:41:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-02-23 18:41:28,455 172.18.0.2 - - [23/Feb/2023 18:41:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-02-23 18:41:31,378 172.18.0.2 - - [23/Feb/2023 18:41:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-02-23 18:41:36,560 I am in the name extraction session
+2023-02-23 18:41:36,560 I am in the name extraction session
+2023-02-23 18:41:36,561 Log my final result [{'Product': 'tv', 'Name': 'Rupesh Nirmalkar', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Product is good and value for money.READ MORE'}, {'Product': 'tv', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great productLocal to vocalREAD MORE'}]
+2023-02-23 18:41:36,778 name 'review' is not defined
+2023-02-23 18:41:36,779 172.18.0.2 - - [23/Feb/2023 18:41:36] "POST /review HTTP/1.1" 200 -
